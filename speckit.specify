@@ -1,0 +1,27 @@
+# Phase-2 Specification
+
+## Problem Statement
+Users need a simple web-based application to manage daily tasks effectively.
+
+## User Story
+As a user,
+I want to create, view, update, complete, and delete tasks,
+So that I can organize my daily work efficiently.
+
+## Functional Requirements
+- User can add a new task with a title
+- User can view all tasks
+- User can mark a task as completed or incomplete
+- User can edit a task title
+- User can delete a task
+
+## Non-Functional Requirements
+- Application must be responsive
+- Backend APIs must return JSON
+- UI updates should reflect backend state
+- No authentication required in Phase-2
+
+## Out of Scope
+- User accounts
+- Database persistence
+- Advanced UI animations

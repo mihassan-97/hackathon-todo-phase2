@@ -1,0 +1,24 @@
+# Phase-2 Constitution
+
+## Development Rules
+- This project must follow Spec-Driven Development strictly.
+- No feature implementation without a written specification.
+- All changes must be driven by specs and tasks.
+- Each task must be completed one at a time.
+
+## Architecture
+- Frontend: Next.js (React)
+- Backend: FastAPI (Python)
+- Communication: REST APIs (JSON)
+- State management handled by backend
+
+## Constraints
+- No database in Phase-2 (in-memory storage only)
+- Clean, readable, and minimal code
+- Focus on correctness over optimization
+
+## Quality Standards
+- Clear separation of frontend and backend
+- Predictable API behavior
+- User-friendly UI
+- Error handling must be explicit

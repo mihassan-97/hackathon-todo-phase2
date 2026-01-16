@@ -1,0 +1,25 @@
+# Phase-2 Tasks
+
+TASK-1: Define Task model
+- Fields: id, title, completed
+- Use simple Python data structure
+
+TASK-2: Implement backend API
+- POST /tasks
+- GET /tasks
+- PUT /tasks/{id}
+- DELETE /tasks/{id}
+
+TASK-3: Create frontend UI
+- Task list view
+- Add task form
+- Buttons for complete/delete
+
+TASK-4: Integrate frontend with backend
+- Fetch tasks from API
+- Update UI after API calls
+- Handle errors
+
+TASK-5: Manual testing and cleanup
+- Verify all CRUD operations
+- Ensure UI consistency
