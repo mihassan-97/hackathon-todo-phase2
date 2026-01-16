@@ -95,8 +95,3 @@ async def delete_all_tasks():
     """Delete all tasks"""
     tasks_db.clear()
     return None
-
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
